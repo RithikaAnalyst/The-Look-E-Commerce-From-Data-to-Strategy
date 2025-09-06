@@ -345,9 +345,10 @@ ORDER BY revenue DESC;
 
 ## 📦 Deliverables  
 - 📜 **SQL Scripts** → Analysis queries (BigQuery)  
-- 📊 **Google Sheets Dashboard** → KPIs, retention, funnel charts  
+- 📊 **Google Sheets Dashboard** → KPIs, retention, funnel charts
+       ![Dashboard]()
 - 🎤 **Presentation (Google Slides/Docs)** → Business story + recommendations
-    ![presentation]( Data Analysis Project_ The Look E-Commerce Insights (1).pdf)
+    ![presentation](https://github.com/RithikaAnalyst/The-Look-E-Commerce-From-Data-to-Strategy/blob/main/Data%20Analysis%20Project_%20The%20Look%20E-Commerce%20Insights%20(1).pdf)
 
 ---
 
