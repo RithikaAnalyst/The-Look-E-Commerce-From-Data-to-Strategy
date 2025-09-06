@@ -341,7 +341,7 @@ FROM joined
 GROUP BY 1,2
 ORDER BY revenue DESC;
 ```
-![Visuals]()
+
 
 ## 📦 Deliverables  
 - 📜 **SQL Scripts** → Analysis queries (BigQuery)  
