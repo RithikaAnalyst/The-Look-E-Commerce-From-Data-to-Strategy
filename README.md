@@ -346,9 +346,8 @@ ORDER BY revenue DESC;
 ## 📦 Deliverables  
 - 📜 **SQL Scripts** → Analysis queries (BigQuery)  
 - 📊 **Google Sheets Dashboard** → KPIs, retention, funnel charts
-       ![Dashboard]()
 - 🎤 **Presentation (Google Slides/Docs)** → Business story + recommendations
-    ![presentation](https://github.com/RithikaAnalyst/The-Look-E-Commerce-From-Data-to-Strategy/blob/main/Data%20Analysis%20Project_%20The%20Look%20E-Commerce%20Insights%20(1).pdf)
+   
 
 ---
 
@@ -371,7 +370,7 @@ ORDER BY revenue DESC;
 
 ## 📬 Contact  
 👤 **Your Name**  
-📧 Email: `your.email@example.com`  
+📧 Email: `rithikaramalingam@gmail.com`  
 🔗 [LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/)  
 💻 GitHub: `https://github.com/YourGitHub`  
 
