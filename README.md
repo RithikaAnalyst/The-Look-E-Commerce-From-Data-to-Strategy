@@ -117,6 +117,8 @@ SELECT
   (SELECT COUNT(*) FROM `bigquery-public-data.thelook_ecommerce.orders`) AS orders,
   (SELECT COUNT(*) FROM `bigquery-public-data.thelook_ecommerce.order_items`) AS order_items,
   (SELECT COUNT(*) FROM `bigquery-public-data.thelook_ecommerce.products`) AS products;
+
+
 -- 02_kpis.sql
 -- Company-level KPIs (monthly). Adjust DATE range filters as needed.
 
@@ -194,6 +196,7 @@ SELECT
 FROM ranked
 ORDER BY revenue DESC
 LIMIT 500;
+
 -- 04_customer_behavior.sql
 -- Cohort: first purchase month vs subsequent retention + change column
 WITH purchases AS (
@@ -288,6 +291,7 @@ SELECT
   SAFE_DIVIDE(buyers, viewers)  AS view_to_buy_rate
 FROM daily
 ORDER BY event_date;
+
 -- 06_inventory_supply.sql
 -- Inventory health: basic sell-through & potential stock pressure by category.
 
@@ -337,7 +341,7 @@ FROM joined
 GROUP BY 1,2
 ORDER BY revenue DESC;
 ```
-![KPI_Overview]()
+![Visuals]()
 
 ## 📦 Deliverables  
 - 📜 **SQL Scripts** → Analysis queries (BigQuery)  
