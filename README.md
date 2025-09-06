@@ -49,7 +49,7 @@ Using the public **“The Look” E-commerce dataset** on BigQuery, this project
 - Average Order Value (AOV)  
 - Seasonal Sales Peaks  
 
-### 3. 🛒 Product Performance & Pareto (80/20)  
+### 3. Product Performance & Pareto 
 - Ranked products by **revenue contribution**  
 - Top **20% products = 80% of revenue**  
 - Strategy recommendations:  
@@ -351,7 +351,7 @@ ORDER BY revenue DESC;
 
 ---
 
-## 🧩 Skills Demonstrated  
+##  Skills Demonstrated  
 - SQL programming (CTEs, window functions, date logic)  
 - Data cleaning & anomaly detection  
 - Cohort retention & funnel analysis  
@@ -361,21 +361,21 @@ ORDER BY revenue DESC;
 
 ---
 
-## 🚀 Next Steps  
+## Next Steps  
 - Expand segmentation (**RFM analysis**)  
 - Predictive modeling for **customer churn** (Python/ML)  
 - Automate reporting pipeline with **scheduled queries**  
 
 ---
 
-## 📬 Contact  
-👤 **Your Name**  
+## Contact  
+👤 **Rithika**  
 📧 Email: `rithikaramalingam@gmail.com`  
 🔗 [LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/)  
 💻![GitHub](https://github.com/RithikaAnalyst)  
 
 ---
 
-📝 **License:** MIT (or choose another license)  
+📝 **License:** MIT  
 
 ---
