@@ -343,7 +343,7 @@ ORDER BY revenue DESC;
 ```
 
 
-## 📦 Deliverables  
+##  Deliverables  
 - 📜 **SQL Scripts** → Analysis queries (BigQuery)  
 - 📊 **Google Sheets Dashboard** → KPIs, retention, funnel charts
 - 🎤 **Presentation (Google Slides/Docs)** → Business story + recommendations
@@ -372,7 +372,7 @@ ORDER BY revenue DESC;
 👤 **Rithika**  
 📧 Email: `rithikaramalingam@gmail.com`  
 🔗 [LinkedIn](https://www.linkedin.com/in/rithika-ramalingam-r-02714b244/)  
-💻![GitHub](https://github.com/RithikaAnalyst)  
+💻 [GitHub](https://github.com/RithikaAnalyst)  
 
 ---
 
