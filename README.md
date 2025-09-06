@@ -346,7 +346,8 @@ ORDER BY revenue DESC;
 ## 📦 Deliverables  
 - 📜 **SQL Scripts** → Analysis queries (BigQuery)  
 - 📊 **Google Sheets Dashboard** → KPIs, retention, funnel charts  
-- 🎤 **Presentation (Google Slides/Docs)** → Business story + recommendations  
+- 🎤 **Presentation (Google Slides/Docs)** → Business story + recommendations
+    ![presentation]( Data Analysis Project_ The Look E-Commerce Insights (1).pdf)
 
 ---
 
